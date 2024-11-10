@@ -1,0 +1,11 @@
+Model Information:
+* title:	Jason Voorhees Mask
+* source:	https://sketchfab.com/3d-models/jason-voorhees-mask-bcf25f549baf433e852ad5053cc1434f
+* author:	EverZax (https://sketchfab.com/EverZax)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Jason Voorhees Mask" (https://sketchfab.com/3d-models/jason-voorhees-mask-bcf25f549baf433e852ad5053cc1434f) by EverZax (https://sketchfab.com/EverZax) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
